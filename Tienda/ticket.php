@@ -23,7 +23,7 @@
           </label>
           <label class="label">
             <?php
-              print("Compras ".$carritocompras_1);
+              print("Compras \n".$carritocompras_1);
             ?>
           </label>
           <label class="label">

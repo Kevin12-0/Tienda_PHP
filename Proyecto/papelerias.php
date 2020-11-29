@@ -71,16 +71,13 @@
 		  </div>
 		</nav>
 	</nanvar>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <div class="slider">
-    <ul>
-        <li><img src="Recurso1.jpg" alt=""></li>
-        <li><img src="Recurso2.jpg" alt=""></li>
-    </ul>
-  </div>
+    <div class="container">
+        <div class="colums">
+            <div class="colums is-4">
+                <h1 class="title is-1">Papelerias zona de tulancingo</h1>
+                <?php include 'papelerias_view.php'; ?>
+            </div>
+        </div>
+    </div>
 </body>
 </html>

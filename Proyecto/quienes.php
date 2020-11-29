@@ -26,7 +26,7 @@
 		        Inicio
 		      </a>
 
-		      <a class="navbar-item">
+		      <a class="navbar-item" href="quienes.php">
 		        ¿Quienes Somos?
 		      </a>
 
@@ -36,7 +36,7 @@
 		        </a>
 
 		        <div class="navbar-dropdown">
-		          <a class="navbar-item">
+		          <a class="navbar-item" href="papelerias.php">
 		            Papelerias
 		          </a>
 		          <a class="navbar-item">

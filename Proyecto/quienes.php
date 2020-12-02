@@ -4,12 +4,12 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
-	<title></title>
+	<title>Quienes</title>
 </head>
 <body>
 	<nav class="navbar" role="navigation" aria-label="main navigation">
 		  <div class="navbar-brand">
-		    <a class="navbar-item" href="">
+		    <a class="navbar-item" href="index.php">
 		      <img src="Logo.png" width="112" height="28">
 		    </a>
 
@@ -22,7 +22,7 @@
 
 		  <div id="navbarBasicExample" class="navbar-menu">
 		    <div class="navbar-start">
-		      <a class="navbar-item">
+		      <a class="navbar-item" href="index.php">
 		        Inicio
 		      </a>
 
@@ -56,10 +56,10 @@
 		    <div class="navbar-end">
 		      <div class="navbar-item">
 		        <div class="buttons">
-		          <a class="button is-primary">
+		          <a class="button is-primary" href="iniciar.php">
 		            <strong>Iniciar Secion</strong>
 		          </a>
-		          <a class="button is-light">
+		          <a class="button is-light" href="registrate">
 		            Registrarse
 		          </a>
 		        </div>
@@ -67,7 +67,6 @@
 		    </div>
 		  </div>
 		</nav>
-	</nanvar>
 </body>
 </html>
 <br>

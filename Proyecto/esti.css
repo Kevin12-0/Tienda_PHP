@@ -1,14 +1,14 @@
 .slider {
- width: 95%;
+ width: 100%;
  margin: auto;
  overflow: hidden;
 }
 .slider ul {
   display: flex;
   padding: 0;
-  width: 200%;
+  width: 500%;
   animation: cambio 20s infinite alternate;
-  animation-timing-function: linear;
+  animation-timing-function: ease-out;
 }
 .slider li {
   width: 100%;
@@ -27,4 +27,18 @@
 
   25% {margin-left: -100%;}
   45% {margin-left: -100%;}
+
+  50% {margin-left: -200%;}
+  70% {margin-left: -200%;}
+
+  75% {margin-left: -300%;}
+  95% {margin-left: -300%;}
+
+  100% {margin-left: -400%;}
+  120% {margin-left: -400%;}
+
+  125% {margin-left: -500%;}
+  145% {margin-left: -500%;}
+
+ 
 }

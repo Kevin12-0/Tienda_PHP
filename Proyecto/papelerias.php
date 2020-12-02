@@ -58,10 +58,10 @@
 		    <div class="navbar-end">
 		      <div class="navbar-item">
 		        <div class="buttons">
-		          <a class="button is-primary" href="Iniciar.php">
+		          <a class="button is-primary" href="iniciar.php">
 		            <strong>Iniciar Secion</strong>
 		          </a>
-		          <a class="button is-light">
+		          <a class="button is-light" href="registrate.php">
 		            Registrarse
 		          </a>
 

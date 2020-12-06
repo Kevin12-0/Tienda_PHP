@@ -76,6 +76,9 @@
             <div class="colums is-4">
                 <h1 class="title is-1">Papelerias zona de tulancingo</h1>
                 <?php include 'papelerias_view.php'; ?>
+                <a href="productos.php">
+                    <button class="button is-primary">Productos</button>
+                </a>
             </div>
         </div>
     </div>

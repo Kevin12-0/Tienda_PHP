@@ -1,0 +1,17 @@
+# Crear app
+
+```
+django-admin startproject PuntoDeVenta
+```
+
+# correr servidor
+
+```
+python manage.py runserver
+```
+
+# crear las migraciones
+
+```
+python manage.py makemigrations
+```
